@@ -1,2 +1,2 @@
 #!/bin/bash
-node lemmings-commander/app.js config/app.ini.org
+node commander/app.js config/app.ini.org

@@ -2,5 +2,5 @@
 www.yahoo.com=[60,10]
 
 [commander]
-strategydir=["./mystrategy","./lemmings-tactics-io/example_strategy"]
-tacticsdir=["./lemmings-tactics-io","./lemmings-tactics-task"]
+strategydir=["./mystrategy","./tactics-io/example_strategy"]
+tacticsdir=["./tactics-io","./tactics-task"]
